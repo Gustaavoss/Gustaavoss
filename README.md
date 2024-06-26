@@ -1,6 +1,6 @@
 ## Olá me chamo Gustavo Silva, seja bem-vindo ao meu perfil!👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-gustavo-da-silva-∴-a59300225/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BWITXqqZ0Qt6uteqPPQIWBw%3D%3D)
+[![Linkedin](https://www.linkedin.com/in/luiz-gustavo-silva-%E2%88%B4-b258b0301/)
 
 ![Gustaavoss GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustaavoss&show_icons=true&theme=dark)
 </br>
